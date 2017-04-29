@@ -1,0 +1,713 @@
+body{
+     margin: 0;
+     padding: 0;
+     background:#E8E1E1;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+img{
+	max-width: 100%;
+	display: block;
+
+}
+
+a{
+  text-decoration: none;
+}
+/*********************portfolio-section start****************/
+
+.portfolio-section{
+                    width: 1000px;
+                    margin: 0 auto;
+                    background-color: #CAC5C5;
+
+}
+
+.head{
+       overflow: hidden;
+       padding: 0px 0;
+       background: #4F998F;
+
+}
+
+.head  .logo{
+              width: 7%;
+              float: left;
+              padding-left: 30px;
+
+}
+
+.head  .logo img{
+
+}
+
+.manu{
+      width: 85%;
+      float: left;
+      padding-top: 10px;
+
+}
+
+ .manu ul{
+          margin: 0;
+          padding: 0;
+          text-align: right;
+
+ }
+
+ .manu ul li{
+              list-style-type: none;
+              display: inline-block;
+
+ }
+
+ .manu ul li a{
+                color: #D3D3D3;
+                text-transform: uppercase;
+                text-decoration: none;
+                padding: 10px 20px;
+                display: block;
+                transition: all 0.5s ease;
+                -webkit-transition: all 0.5s ease;
+                -moz-transition: all 0.5s ease;
+
+ }
+
+ .manu ul li a:hover {
+                      background: #D3D3D3;
+                      color: #473B31;
+
+ }
+
+/*********************portfolio-section end****************/
+
+/*********************bannar start****************/
+
+ .banner{
+ 			background-image: url(../img/nn.jpg);
+      text-align: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      padding: 50px 0;
+      background-position: 100% 70%;
+      background-attachment: fixed;
+      color: #fff;
+
+ }
+
+ .banner h1{
+             text-shadow: 4px 4px 2px #000;
+             font-size: 44px;
+             text-transform: uppercase;
+             color: #ffffff;
+
+ }
+
+ .banner .part{
+                text-shadow: 2px 2px 1px #000;
+
+ }
+
+ .banner h2{
+            
+ }
+
+ .banner h2 p{
+              
+ }
+
+ .banner h2 p a{
+                 color: #D3D3D3;
+                 text-decoration: none;
+                 padding: 10px 20px;
+                 transition: all 0.5s ease;
+                 -webkit-transition: all 0.5s ease;
+                 -moz-transition: all 0.5s ease;
+                 border-radius: 60px;
+                 display: inline-block;
+                 font-size: 30px;
+                 background: #296889;
+                 width:226px;
+                 text-transform: uppercase;
+
+ }
+
+ .banner h2 p a:hover{
+                       background: #D3D3D3;
+                       color: #3C2D4F;
+
+ }
+
+ /*********************bannar end****************/
+
+ /*********************content part start****************/
+ 
+ .main-content-part{
+                    overflow: hidden;
+
+  }
+
+  .main-content-part a{
+                        text-decoration: none;
+
+
+  }
+
+  .main-content-part .my{
+                         color: #473B31;
+
+  }
+
+  .main-content-part .my:hover{
+                       background: #499E81;
+                       color: #90A640;
+
+ }
+
+ .box-1{
+         width: 100%;
+         height: 300px;
+         text-align: center;
+         background-size: cover;
+         color: #473B31;
+         margin: 0 auto;
+
+
+ }
+
+ .box-1 .box-2{
+
+                width: 100%;
+                height: 100px;
+                float: left;
+                padding: 20px 0;
+
+
+ }
+
+ .box-1 .box-2 h1{
+ 	
+ }
+
+ .box-1 .box-2 p{
+ 	
+ }
+
+.box-1 .three{
+              width: 33.33%;
+              height: 200px;
+              float: left;
+}
+
+.box-1 .three .you{
+ }
+
+.box-1 .three .girl{
+
+ }
+
+.box-1 .three .boy{
+
+}
+
+  .sidebar{
+            height: 300px;
+            width: 20%;
+            float: left;
+            box-sizing: border-box;
+
+  }
+
+  .four{
+         width: 100%;
+         height: 50%;
+         float: left;
+         box-sizing: border-box;
+  }
+
+  .article{
+            height: 300px;
+            width: 80%;
+            float: left;
+            padding-right: 15px;
+            box-sizing: border-box;
+            background-image: url(../img/note.jpg);
+            text-align: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 100% 70%;
+            color: #fff;
+
+  }
+
+  .article h1{
+               text-shadow: 4px 4px 2px #000;
+               font-size: 30px;
+               text-transform: uppercase;
+               color: #ffffff;
+
+  }
+
+  .article .he{
+                text-shadow: 2px 2px 1px #000;
+
+  }
+
+  .article .they{
+                 color: #551A8B;
+
+  }
+
+  .article .they:hover{
+                           background: #C752A6;
+                           color: #C752A6;
+  }
+
+  .article h2{
+
+  }
+
+  .article h2 p .me{
+                    color: #D3D3D3;
+                    text-decoration: none;
+                    padding: 10px 20px;
+                    transition: all 0.5s ease;
+                    -webkit-transition: all 0.5s ease;
+                    -moz-transition: all 0.5s ease;
+                    border-radius: 60px;
+                    display: inline-block;
+                    font-size: 30px;
+                    background: #296889;
+                    width:226px;
+                    text-transform: uppercase;
+
+  }
+
+  .article h2 p .me:hover{
+                           background: #D3D3D3;
+                           color: #3C2D4F;
+
+ }
+
+ /*********************content part end****************/
+
+ /*********************vip part start****************/
+
+ .main-vip{
+           width: 100%;
+           height: 600px;
+           background-size: cover;
+           margin: 0 auto;
+           overflow: hidden;
+           box-sizing: border-box;
+           color: #D6B37F;                     
+           text-align: center;
+
+ }
+
+ .main-vip .vip-1{
+                   width: 100%;
+                   height: 200px;
+                   text-align: center;
+                   background-size: cover;
+                   color: #473B31;
+                   margin: 0 auto;
+                   float: left;
+                   box-sizing: border-box;
+                   margin-bottom: -40px;
+
+ }
+
+ .main-vip .vip-1 h1{
+                     box-sizing: border-box;
+
+ }
+
+ .main-vip .vip-1 h1 a{
+                       color: #473B31;
+
+ }
+
+ .main-vip .vip-1 h1 a:hover{
+                              background: #CAC5C5;
+                              color: #551A8B;
+
+ }
+
+ .main-vip .vip-1 p{
+                    font-size: 20px;
+
+ }
+
+ .main-vip .vip-2{
+                  width: 100%;
+                  height: 150px;
+                  text-align: center;
+                  background-size: cover;
+                  color: #473B31;
+                  margin: 0 auto;
+                  float: left;
+                  box-sizing: border-box;
+                  margin-bottom: 65px;
+
+ }
+
+ .main-vip .vip-2 .vip-x{
+                            height: 100%;
+                            width: 50%;
+                            float: left;
+                            box-sizing: border-box;
+                            margin: auto;
+                            text-align: center;
+                            font-size: 140px;
+                            margin-top: 15px;
+                            padding-right: 115px;
+
+ }
+
+ .main-vip .vip-2 .vip-vip{
+                            height: 100%;
+                            width: 50%;
+                            margin-left: -125px;
+                            box-sizing: border-box;
+                            float: left;
+                          
+ }
+
+ .main-vip .vip-2 .vip-vip .tow{
+                                font-size: 20px;
+                                background-color: #C3BCBC;
+                                margin-bottom: -20px;
+                                padding-bottom: 20px;
+                                padding-top: 20px;
+                                box-sizing: border-box;
+
+ }
+
+ .main-vip .vip-2 .vip-vip .one{
+                                font-size: 20px;
+                                background-color: #C3BCBC;
+                                text-transform: uppercase;
+                                padding-bottom: 20px;
+                                box-sizing: border-box;
+
+ }
+
+ .main-vip .vip-2 .vip-vip .one a{
+                                  color:#296889;
+
+ }
+
+ .main-vip .vip-2 .vip-vip .one a:hover{
+                                        background: #C3BCBC;
+                                        color: #A32780;
+ }
+
+ .main-vip .vip-3{
+                  width: 100%;
+                  height: 200px;
+                  text-align: center;
+                  background-size: cover;
+                  color: #473B31;
+                  margin: 0 auto;
+                  float: left;
+                  box-sizing: border-box;
+
+ }
+
+ .main-vip .vip-3 .vip-x{
+                            height: 100%;
+                            width: 50%;
+                            float: left;
+                            box-sizing: border-box;
+                            margin: auto;
+                            text-align: center;
+                            font-size: 140px;
+                            margin-left: -140px;
+                            padding-left: 150px;
+                            margin-top: 10px;
+ }
+
+ .main-vip .vip-3 .vip-vip{
+
+                          height: 100%;
+                          width: 50%;
+                          margin-left: 124px;
+                          box-sizing: border-box;
+                          float: left;
+
+
+ }
+
+ .main-vip .vip-3 .vip-vip .tow{
+                                font-size: 20px;
+                                background-color: #C3BCBC;
+                                margin-bottom: -20px;
+                                padding-bottom: 20px;
+                                padding-top: 20px;
+                                box-sizing: border-box;
+
+ }
+
+ .main-vip .vip-3 .vip-vip .one{
+                                font-size: 20px;
+                                background-color: #C3BCBC;
+                                text-transform: uppercase;
+                                padding-bottom: 20px;
+                                box-sizing: border-box;
+
+ }
+
+ .main-vip .vip-3 .vip-vip .one a{
+                                   color:#296889;
+
+ }
+
+ .main-vip .vip-3 .vip-vip .one a:hover{
+                                         background: #C3BCBC;
+                                         color:#A32780;
+
+ }
+
+/*********************vip part end****************/
+
+/*********************copyright start****************/
+
+.portfolio-section {
+
+}
+
+.portfolio-section .lokal{
+                          width: 100%;
+                          height: 125px;
+                          background-size: cover;
+                          margin: 0 auto;
+                          overflow: hidden;
+                          box-sizing: border-box;
+                          color: #D6B37F;
+                          background: #296889;
+                          text-align: center;
+
+}
+
+.portfolio-section .lokal h1{
+                             text-transform: uppercase;
+
+
+}
+
+.portfolio-section .lokal h1 a{
+                               color: #D6B37F;
+
+}
+
+.portfolio-section .lokal h1 a:hover{
+                                     color: #AA2476;
+                                     background: #296889;
+
+}
+
+.portfolio-section .new{
+                         width: 100%;
+                         height: 75px;
+                         background-size: cover;
+                         margin: 0 auto;
+                         overflow: hidden;
+                         box-sizing: border-box;
+                         color: #499E81;         
+                         padding-right: 15px;
+        
+}
+
+.portfolio-section .new h1{
+                            height: 75px;
+                            float: left;
+                            width: 25%;
+                            text-align: center;
+
+}
+
+.portfolio-section .new h1 a{
+                             text-decoration: none;
+                             color:#473B31;
+}
+
+.portfolio-section .new h1 a:hover{
+                                   background: #CAC5C5;
+                                   color: #A32780;
+
+}
+
+.portfolio-section .contact{
+                            width: 100%;
+                            height: 200px;
+                            background-size: cover;
+                            margin: 0 auto;
+                            background: #473B31;
+                            box-sizing: border-box;
+
+}
+
+.portfolio-section .contact p a:hover{
+                                      background: #473B31;
+                                      color: #90A640;
+
+}
+
+.portfolio-section .contact .us{
+                                  width: 33.33%;
+                                  height: 200px;
+                                  float: left;
+                                  padding-left: 15px;
+                                  box-sizing: border-box;
+
+}
+
+.portfolio-section .contact .us p{
+
+}
+
+.portfolio-section .contact .us p a{
+                                    color:#CAC5C5;
+
+}
+
+.portfolio-section .contact .us p a:hover{
+                                          background: #473B31;
+                                          color: #90A640;
+
+}
+
+.portfolio-section .contact .post{
+                                  width: 33.33%;
+                                  height: 200px;
+                                  float: left;
+                                  box-sizing: border-box;
+
+}
+
+.portfolio-section .contact .post h1{
+
+}
+
+.portfolio-section .contact .post p{
+
+}
+
+.portfolio-section .contact .post p a{
+                                      color:#CAC5C5;
+
+}
+
+.portfolio-section .contact .post p a:hover{
+                                            background: #473B31;
+                                            color: #90A640;
+
+}
+
+.portfolio-section .contact .twitter{
+                                      width: 33.33%;
+                                      height: 200px;
+                                      float: left;
+                                      box-sizing: border-box;
+
+}
+
+.portfolio-section .contact .twitter h1{
+
+}
+
+.portfolio-section .contact .twitter p{
+	
+}
+
+.portfolio-section .contact .twitter p a{
+                                         color:#CAC5C5;
+	
+}
+
+.portfolio-section .contact .twitter p a:hover{
+                                               background: #473B31;
+                                               color: #90A640;
+
+}
+
+.portfolio-section .footer{
+                            background: #4F998F;
+                            color: #D3D3D3;
+                            overflow: hidden;
+                            padding: 10px 0;
+
+}
+
+.portfolio-section .copyright{
+                              width: 50%;
+                              float: left;
+                              text-align: center;
+
+}
+
+.portfolio-section .copyright p{
+                                margin: 0;
+
+}
+
+.portfolio-section .copyright p a{
+                                  color: #D3D3D3;
+                                  font-style: italic;
+                                  letter-spacing: 2px;
+
+}
+
+.portfolio-section .copyright p a:hover{
+                                        background: #4F998F;
+                                        color: #AC2347;
+
+ }
+
+.portfolio-section .social{
+                            float: left;
+                            width: 50%;
+
+}
+
+.portfolio-section .social ul{
+                              margin: 0;
+                              padding: 0;
+                              text-align: center;
+
+}
+
+.portfolio-section .social ul li{
+                                  list-style: none;
+                                  display: inline-block;
+
+}
+
+.portfolio-section .social ul li a{
+                                    color: #A32780;
+                                    font-size: 16px;
+                                    display: block;
+                                    background: #D3D3D3;
+                                    margin-left: 5px;
+                                    width: 25px;
+                                    height: 25px;
+                                    text-align: center;
+                                    line-height: 25px;
+                                    text-transform: uppercase;
+                                    text-decoration: none;              
+                                    transition: all 0.5s ease;
+                                    -webkit-transition: all 0.5s ease;
+                                    -moz-transition: all 0.5s ease;
+
+}
+
+.portfolio-section .social ul li a:hover {
+                                            background: #895598;
+                                            color: #D3D3D3;
+
+ }
+/******************copyright end****************/
+
+/*********************portfolio-section end****************/
